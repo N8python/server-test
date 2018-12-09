@@ -1,1 +1,2 @@
-Hello there!
+<h1>This is a dynamically generated header</h1>
+<p>This paragraph is also from a server</p>
