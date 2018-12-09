@@ -5,5 +5,5 @@ function loadDoc(){
   oReq.send()
 }
 function changeStuff(){
-  console.log(this.responseText);
+  document.write(this.responseText);
 }
