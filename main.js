@@ -6,4 +6,5 @@ function loadDoc(){
 }
 function changeStuff(){
   document.write(this.responseText);
+  console.log(this.averageKid);
 }
