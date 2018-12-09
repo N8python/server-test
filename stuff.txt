@@ -1,12 +1,3 @@
 <h1>This is a dynamically generated header</h1>
 <p>This paragraph is also from a server</p>
-<script>
-averageKid = {
-strength: 10,
-dex: 10,
-con: 10,
-int: 9,
-wisdom: 9,
-cha: 9
-}
-</script>
+
