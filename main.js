@@ -8,4 +8,4 @@ function changeStuff(){
   document.write(this.responseText);
   console.log(this.responseText.averageKid);
 }*/
-$("button").click(function(){$("putStuff").load("stuff.txt")});
+$("btn").click(function(){$("putStuff").load("stuff.txt")});
